@@ -1,0 +1,10 @@
+##############################################################################
+## Filename:          D:/test/pcores/myip_v1_00_a/data/myip_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Mon Oct 12 21:55:27 2015 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib axi_slave_burst_v1_00_a  all 
+lib myip_v1_00_a user_logic vhdl
+lib myip_v1_00_a myip vhdl
